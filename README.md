@@ -1,8 +1,8 @@
 
-<!-- Profile README for Arham Qureshi -->
+<!-- Profile README for Sheikh Nadeem -->
 <!-- Designed with modern glassmorphism and dark aesthetics -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Arham Qureshi</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Sheikh Nadeem</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
@@ -22,21 +22,16 @@
 
 ### 🧩 Featured Projects  
 
-#### 🎲 [Tetris Game (C++/MakeFile)](https://github.com/Arham-Qureshi)
-> A fun twist on the classic Tetris with advanced logic and real-time graphics.  
-> *Includes user-friendly UI, levels, and score tracking.*
-
-#### 🧠 [Hands-on GUI with Python (NetworkX, PyQt5, etc.)](https://github.com/Arham-Qureshi)
-> Interactive visualizations and GUI applications powered by Python.  
-> *Mix of data visualization, network theory, and design flair.*
+#### 🎲 [Smart Goggle To Detect Eye Dizzines](https://github.com/snadeem03)
+> Smart Goggle which dtetcts eye dizzines and alarms the user.
 
 ---
 
 ### 🧰 Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,qt,github,vscode&theme=dark" />
-</p>
+
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 
@@ -44,29 +39,27 @@
 
 <div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
   
-  ![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arham-Qureshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Arham-Qureshi&theme=radical&hide_border=true&background=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arham-Qureshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![](https://github-readme-stats.vercel.app/api?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=snadeem03&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ---
 
 ### 🌐 Connect With Me  
 
-<p align="center">
-  <a href="https://github.com/Arham-Qureshi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
-  <a href="https://www.linkedin.com/in/arham-qureshi-3250a4380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arhamqureshi0098@gmail.com"><img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-mohd-nadeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.nadeemm03@gmail.com) 
+
 
 ---
 
 ### 🌟 Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arham-Qureshi&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=snadeem03&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
