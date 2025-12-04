@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Sheikh Nadeem</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Improve.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 💻 Passionate about **Game Development**, **AI**, and **Data Science**  
 🎮 Always exploring how creativity and computation can merge  
 🚀 Focused on building intelligent, visually captivating projects  
-💬 Motto: *"Code. Debug. Repeat."*  
+💬 Motto: *"Code. Debug. Improve. Repeat."*  
 🌙 Prefers working in the quiet of dark mode (literally and metaphorically 😎)  
 
 ---
