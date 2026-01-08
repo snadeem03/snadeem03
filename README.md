@@ -67,5 +67,5 @@
 ### 🕹️ “Creativity meets Code.”  
 
 <p align="center">
-  <img src="https://github.com/Arham-Qureshi.png" width="150" style="border-radius:50%; border:3px solid #00FFFF;">
+  <img src="https://avatars.githubusercontent.com/u/178668555?v=4&size=64" width="150" style="border-radius:50%; border:3px solid #00FFFF;">
 </p>
