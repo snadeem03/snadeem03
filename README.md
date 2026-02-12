@@ -25,7 +25,7 @@
 #### 🎲 [Smart Goggle To Detect Eye Dizzines](https://github.com/snadeem03)
 > Smart Goggle which dtetcts eye dizzines and alarms the user.
 
-### Weather App (weatherly)
+### [Weather App (weatherly)](https://github.com/snadeem03/weather-app-js)
 > A simple and responsive weather application that fetches real-time weather data using the OpenWeather API. Users can search for any city and instantly view current weather conditions.
 
 ---
