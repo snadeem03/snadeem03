@@ -28,6 +28,9 @@
 #### [Weather App (weatherly)](https://github.com/snadeem03/weather-app-js)
 > A simple and responsive weather application that fetches real-time weather data using the OpenWeather API. Users can search for any city and instantly view current weather conditions.
 
+#### [pdf-tools (PDFNova)](https://github.com/snadeem03/pdf-tools)
+> A full-stack, premium-grade web application designed to be a one-stop shop for manipulating and managing PDF files.
+
 ---
 
 ### 🧰 Tech Stack  
