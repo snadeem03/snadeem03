@@ -1,5 +1,4 @@
-````md
-# 🌌 Ultimate GitHub Profile README
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheikh%20Nadeem&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Debug.%20Improve.%20Repeat.&descAlignY=58&descSize=18"/>
@@ -15,12 +14,11 @@
 
 # 🧠 About Me
 
-```yaml
 Name: Sheikh Nadeem
 Location: India
 Focus: AI • Web Development • Creative Systems
 Motto: "Code. Debug. Improve. Repeat."
-````
+
 
 💻 I enjoy building projects where software feels alive
 ⚡ Exploring the intersection of AI, automation, and creativity
@@ -144,24 +142,13 @@ https://github.com/snadeem03/pdf-tools
 
 ---
 
+
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snadeem03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadeem03&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=snadeem03&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=snadeem03&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=snadeem03&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -169,15 +156,7 @@ https://github.com/snadeem03/pdf-tools
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snadeem03&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/snadeem03/snadeem03/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snadeem03&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
