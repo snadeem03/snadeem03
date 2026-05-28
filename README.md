@@ -1,77 +1,222 @@
-
-<!-- Profile README for Sheikh Nadeem -->
-<!-- Designed with modern glassmorphism and dark aesthetics -->
-
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Sheikh Nadeem</span></h1>
+````md
+# 🌌 Ultimate GitHub Profile README
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=Code.+Debug.+Improve.+Repeat." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sheikh%20Nadeem&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Debug.%20Improve.%20Repeat.&descAlignY=58&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Developer;Full-Stack+Builder;Creative+Programmer;Game+Development+Enthusiast;Data+Science+Explorer;Building+Future+Ready+Projects" />
 </p>
 
 ---
 
-### 🧠 About Me  
+<img src="https://user-images.githubusercontent.com/74038190/212750997-3c4f3b66-94a7-4b4f-9f4b-8a6d9fd8b5a7.gif" width="100%">
 
-💻 Passionate about **Game Development**, **AI**, and **Data Science**  
-🎮 Always exploring how creativity and computation can merge  
-🚀 Focused on building intelligent, visually captivating projects  
-💬 Motto: *"Code. Debug. Improve. Repeat."*  
-🌙 Prefers working in the quiet of dark mode (literally and metaphorically 😎)  
+# 🧠 About Me
 
----
+```yaml
+Name: Sheikh Nadeem
+Location: India
+Focus: AI • Web Development • Creative Systems
+Motto: "Code. Debug. Improve. Repeat."
+````
 
-### 🧩 Featured Projects  
-
-#### 🎲 [Smart Goggle To Detect Eye Dizzines](https://github.com/snadeem03)
-> Smart Goggle which dtetcts eye dizzines and alarms the user.
-
-#### [Weather App (weatherly)](https://github.com/snadeem03/weather-app-js)
-> A simple and responsive weather application that fetches real-time weather data using the OpenWeather API. Users can search for any city and instantly view current weather conditions.
-
-#### [pdf-tools (PDFNova)](https://github.com/snadeem03/pdf-tools)
-> A full-stack, premium-grade web application designed to be a one-stop shop for manipulating and managing PDF files.
+💻 I enjoy building projects where software feels alive
+⚡ Exploring the intersection of AI, automation, and creativity
+🎮 Passionate about Game Development & intelligent systems
+🛠 Love turning ideas into visually immersive experiences
+🌙 Powered by dark mode and late-night coding sessions
 
 ---
 
-### 🧰 Tech Stack  
+# 🚀 Currently Building
 
-
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats  
-
-<div align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px;">
-  
-![](https://github-readme-stats.vercel.app/api?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=snadeem03&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+* 🤖 AI Desktop Partner inspired by JARVIS
+* 📄 PDFNova premium PDF platform
+* 🌐 Modern developer portfolio
+* 🧠 AI-powered automation systems
 
 ---
 
-### 🌐 Connect With Me  
+<img src="https://user-images.githubusercontent.com/74038190/212751080-2c7dbf53-9f8e-45e5-aef4-fbf7f9f4c1e7.gif" width="100%">
 
+# 🧩 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-mohd-nadeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.nadeemm03@gmail.com) 
+## 🤖 AI Desktop Partner
 
+> A futuristic AI desktop assistant inspired by JARVIS with automation and voice interaction capabilities.
+
+### ⚙️ Tech Stack
+
+Python • AI APIs • Automation • Computer Vision
+
+### ✨ Features
+
+* Voice commands
+* Smart automation
+* Desktop interaction
+* AI conversation system
 
 ---
 
-### 🌟 Visitors  
+## 🥽 Smart Goggles for Detecting Eye Drowsiness
+
+> Smart goggles that detect eye drowsiness and alert the user in real time.
+
+### ⚙️ Tech Stack
+
+Arduino • Sensors • Embedded Systems • AI Logic
+
+### ✨ Features
+
+* Eye movement detection
+* Real-time alert system
+* Wearable smart technology
+
+🔗 Repository:
+https://github.com/snadeem03
+
+---
+
+## 🌦 Weatherly
+
+> A responsive weather application with real-time weather updates using OpenWeather API.
+
+### ⚙️ Tech Stack
+
+HTML • CSS • JavaScript • OpenWeather API
+
+### ✨ Features
+
+* Real-time weather data
+* City search
+* Responsive design
+* Clean modern UI
+
+🔗 Repository:
+https://github.com/snadeem03/weather-app-js
+
+---
+
+## 📄 PDFNova
+
+> A premium full-stack PDF management platform for manipulating and managing PDF files.
+
+### ⚙️ Tech Stack
+
+React • Node.js • Express • MongoDB
+
+### ✨ Features
+
+* Merge PDFs
+* Split PDFs
+* Compression tools
+* Authentication system
+* Glassmorphism UI
+
+🔗 Repository:
+https://github.com/snadeem03/pdf-tools
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212751174-7f0e7e67-1bb0-4e5d-8f7e-ffaf8df6b4c7.gif" width="100%">
+
+# 🧰 Tech Arsenal
+
+## 💻 Languages
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snadeem03&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+## 🌐 Frontend & Web
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,wordpress" />
 </p>
 
 ---
 
-### 🕹️ “Creativity meets Code.”  
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/178668555?v=4&size=64" width="150" style="border-radius:50%; border:3px solid #00FFFF;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snadeem03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snadeem03&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=snadeem03&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=snadeem03&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snadeem03&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/snadeem03/snadeem03/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sheikh-mohd-nadeem">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:s.nadeemm03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/snadeem03">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snadeem03&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
+</p>
+
+---
+
+# 🌌 Final Transmission
+
+<p align="center">
+  <i>"Building intelligent experiences where creativity meets computation."</i>
+</p>
+
+<p align="center">
+⚡ Code • Create • Evolve ⚡
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+```
