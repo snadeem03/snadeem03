@@ -120,6 +120,7 @@ https://github.com/snadeem03/pdf-tools
 
 <img src="https://user-images.githubusercontent.com/74038190/212751174-7f0e7e67-1bb0-4e5d-8f7e-ffaf8df6b4c7.gif" width="100%">
 
+
 # 🧰 Tech Arsenal
 
 ## 💻 Languages
@@ -128,19 +129,57 @@ https://github.com/snadeem03/pdf-tools
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-## 🌐 Frontend & Web
+---
+
+## 🌐 Frontend & Web Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
-## 🛠 Tools & Platforms
+---
+
+## 🗄️ Database & Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,mysql,arduino,vscode,wordpress" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ---
+
+## 🧠 AI / Data Science Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,arduino,apache" />
+</p>
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="center">
+
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</p>
 
 
 # 📊 GitHub Analytics
