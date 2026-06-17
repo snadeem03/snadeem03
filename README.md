@@ -73,7 +73,7 @@ Arduino • Sensors • Embedded Systems • AI Logic
 * Wearable smart technology
 
 🔗 Repository:
-https://github.com/snadeem03
+https://github.com/snadeem03/smart-goggle-drowsiness-detector
 
 ---
 
