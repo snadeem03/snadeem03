@@ -181,6 +181,15 @@ https://github.com/snadeem03/pdf-tools
 
 </p>
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=snadeem03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages" />
+</p>
+
 
 # 📊 GitHub Analytics
 
